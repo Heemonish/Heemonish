@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<!--
-**Heemonish/Heemonish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h1 align="center">Hi 👋, I'm Prince kumar</h1>
+<h1 align="center">Hi 👋, I'm Heemonish Rai</h1>
 <h3 align="center">Data Science Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
 <h1 align="center">
