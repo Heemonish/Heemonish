@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
 <h1 align="center">
- <img src="https://github.com/Heemonish/Heemonish/blob/main/Linkedin_Heading.png" />
+ <img src="https://github.com/princekr301/princekr301/blob/main/Linkedin_Heading.png" />
 </h1>
 -----------------------------------------
 
