@@ -4,8 +4,6 @@
 <h1 align="center">
  <img src="https://github.com/princekr301/princekr301/blob/main/Linkedin_Heading.png" />
 </h1>
------------------------------------------
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Heemonish&label=Profile%20views&color=0e75b6&style=flat" alt="Heemonish" /> </p>
 
@@ -18,15 +16,11 @@
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 🌱 I’m currently learning *Data Science in Artificial Intellgience with Deep Learning NLP*
+- 🌱 I’m currently learning *Data analyst*
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 👨‍💻 My Special Blogs at Medium Click Here :- [Medium.com](https://medium.com/@princekumar_95329)
+- 📫 How to reach me *heemonish5@gmail.com*
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 📝 I Regularly Write articles on [Power BI Blog](https://mavenanalytics.io/project/6759)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 📫 How to reach me *Heemonish@gmail.com*
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-- ⚡ Fun fact ** My Hobbie is Playing Cricket and amy recent hobbie is codding ✨**
+- ⚡ Fun fact ** My Hobbie is shopping and my recent hobbie is codding ✨**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
